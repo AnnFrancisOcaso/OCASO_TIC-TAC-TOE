@@ -21,5 +21,25 @@ namespace ocaso_tic_tac_toe
         {
             
         }
+
+        private void lblName_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void aboutTheCreatorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("This program is created by Ann Francis Ocaso, a Computer Engineering Student in PUP Sta.Mesa.", "About the Creator");
+        }
+
+        private void howToPlayToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("(1) The game is played on a three-by-three-square grid. (2) Your friend is O, and you are X.Players take turns marking empty squares with their marks. (3) The winner is the first player to get three marks in a row (up, down, across, or diagonally). (4) The game is over when all 9 squares are filled.The game ends in a tie if no player has three consecutive marks.", "Rules for Tic-Tac-Toe");
+        }
     }
 }

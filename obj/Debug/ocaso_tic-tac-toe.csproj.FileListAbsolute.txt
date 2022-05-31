@@ -1,0 +1,10 @@
+C:\Users\Phenyang\source\repos\ocaso_tic-tac-toe\bin\Debug\ocaso_tic-tac-toe.exe.config
+C:\Users\Phenyang\source\repos\ocaso_tic-tac-toe\bin\Debug\ocaso_tic-tac-toe.exe
+C:\Users\Phenyang\source\repos\ocaso_tic-tac-toe\bin\Debug\ocaso_tic-tac-toe.pdb
+C:\Users\Phenyang\source\repos\ocaso_tic-tac-toe\obj\Debug\ocaso_tic-tac-toe.csproj.AssemblyReference.cache
+C:\Users\Phenyang\source\repos\ocaso_tic-tac-toe\obj\Debug\ocaso_tic_tac_toe.Form1.resources
+C:\Users\Phenyang\source\repos\ocaso_tic-tac-toe\obj\Debug\ocaso_tic_tac_toe.Properties.Resources.resources
+C:\Users\Phenyang\source\repos\ocaso_tic-tac-toe\obj\Debug\ocaso_tic-tac-toe.csproj.GenerateResource.cache
+C:\Users\Phenyang\source\repos\ocaso_tic-tac-toe\obj\Debug\ocaso_tic-tac-toe.csproj.CoreCompileInputs.cache
+C:\Users\Phenyang\source\repos\ocaso_tic-tac-toe\obj\Debug\ocaso_tic-tac-toe.exe
+C:\Users\Phenyang\source\repos\ocaso_tic-tac-toe\obj\Debug\ocaso_tic-tac-toe.pdb
