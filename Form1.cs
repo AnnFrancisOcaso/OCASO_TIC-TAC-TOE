@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace ocaso_tic_tac_toe
 {
-    public partial class Form1 : Form
+    public partial class TICTACTOE : Form
     {
 
         bool turn = true;
         // true = X turn; false = Y turn
         int countingofturns = 0;
 
-        public Form1()
+        public TICTACTOE()
         {
             InitializeComponent();
         }
@@ -67,14 +67,14 @@ namespace ocaso_tic_tac_toe
             bool we_have_a_winner = false;
 
             //horizontal check for winner
-            if ((R1.Text == R2.Text) && (R2.Text == R3.Text))
+            if ((R1.Text == R2.Text) && (R2.Text == R3.Text) && (!R1.Enabled));
                 we_have_a_winner = true;
-            else if ((S1.Text == S2.Text) && (S2.Text == S3.Text))
-                we_have_a_winner = true; 
-            else if ((T1.Text == T2.Text) && (T2.Text == T3.Text))
+            if ((S1.Text == S2.Text) && (S2.Text == S3.Text) && (!S1.Enabled));
                 we_have_a_winner = true;
-          
-            if(we_have_a_winner)
+            if ((T1.Text == T2.Text) && (T2.Text == T3.Text) && (!T1.Enabled));
+                we_have_a_winner = true;
+
+            if (we_have_a_winner)
             {
                 String winner = "";
                 if (turn)

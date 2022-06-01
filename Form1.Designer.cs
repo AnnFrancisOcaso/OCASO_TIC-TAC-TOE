@@ -1,7 +1,7 @@
 ﻿
 namespace ocaso_tic_tac_toe
 {
-    partial class Form1
+    partial class TICTACTOE
     {
         /// <summary>
         /// Required designer variable.
@@ -29,6 +29,7 @@ namespace ocaso_tic_tac_toe
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TICTACTOE));
             this.R1 = new System.Windows.Forms.Button();
             this.R2 = new System.Windows.Forms.Button();
             this.R3 = new System.Windows.Forms.Button();
@@ -49,91 +50,64 @@ namespace ocaso_tic_tac_toe
             // 
             // R1
             // 
-            this.R1.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R1.Location = new System.Drawing.Point(19, 42);
+            resources.ApplyResources(this.R1, "R1");
             this.R1.Name = "R1";
-            this.R1.Size = new System.Drawing.Size(80, 68);
-            this.R1.TabIndex = 0;
             this.R1.UseVisualStyleBackColor = true;
             this.R1.Click += new System.EventHandler(this.button1_Click);
             // 
             // R2
             // 
-            this.R2.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R2.Location = new System.Drawing.Point(106, 42);
+            resources.ApplyResources(this.R2, "R2");
             this.R2.Name = "R2";
-            this.R2.Size = new System.Drawing.Size(80, 68);
-            this.R2.TabIndex = 1;
             this.R2.UseVisualStyleBackColor = true;
             this.R2.Click += new System.EventHandler(this.button1_Click);
             // 
             // R3
             // 
-            this.R3.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R3.Location = new System.Drawing.Point(195, 42);
+            resources.ApplyResources(this.R3, "R3");
             this.R3.Name = "R3";
-            this.R3.Size = new System.Drawing.Size(80, 68);
-            this.R3.TabIndex = 2;
             this.R3.UseVisualStyleBackColor = true;
             this.R3.Click += new System.EventHandler(this.button1_Click);
             // 
             // S3
             // 
-            this.S3.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.S3.Location = new System.Drawing.Point(195, 115);
+            resources.ApplyResources(this.S3, "S3");
             this.S3.Name = "S3";
-            this.S3.Size = new System.Drawing.Size(80, 68);
-            this.S3.TabIndex = 5;
             this.S3.UseVisualStyleBackColor = true;
             this.S3.Click += new System.EventHandler(this.button1_Click);
             // 
             // S2
             // 
-            this.S2.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.S2.Location = new System.Drawing.Point(106, 115);
+            resources.ApplyResources(this.S2, "S2");
             this.S2.Name = "S2";
-            this.S2.Size = new System.Drawing.Size(80, 68);
-            this.S2.TabIndex = 4;
             this.S2.UseVisualStyleBackColor = true;
             this.S2.Click += new System.EventHandler(this.button1_Click);
             // 
             // S1
             // 
-            this.S1.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.S1.Location = new System.Drawing.Point(19, 115);
+            resources.ApplyResources(this.S1, "S1");
             this.S1.Name = "S1";
-            this.S1.Size = new System.Drawing.Size(80, 68);
-            this.S1.TabIndex = 3;
             this.S1.UseVisualStyleBackColor = true;
             this.S1.Click += new System.EventHandler(this.button1_Click);
             // 
             // T3
             // 
-            this.T3.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.T3.Location = new System.Drawing.Point(195, 188);
+            resources.ApplyResources(this.T3, "T3");
             this.T3.Name = "T3";
-            this.T3.Size = new System.Drawing.Size(80, 68);
-            this.T3.TabIndex = 8;
             this.T3.UseVisualStyleBackColor = true;
             this.T3.Click += new System.EventHandler(this.button1_Click);
             // 
             // T2
             // 
-            this.T2.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.T2.Location = new System.Drawing.Point(106, 188);
+            resources.ApplyResources(this.T2, "T2");
             this.T2.Name = "T2";
-            this.T2.Size = new System.Drawing.Size(80, 68);
-            this.T2.TabIndex = 7;
             this.T2.UseVisualStyleBackColor = true;
             this.T2.Click += new System.EventHandler(this.button1_Click);
             // 
             // T1
             // 
-            this.T1.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.T1.Location = new System.Drawing.Point(19, 188);
+            resources.ApplyResources(this.T1, "T1");
             this.T1.Name = "T1";
-            this.T1.Size = new System.Drawing.Size(80, 68);
-            this.T1.TabIndex = 6;
             this.T1.UseVisualStyleBackColor = true;
             this.T1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -141,11 +115,8 @@ namespace ocaso_tic_tac_toe
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.helpToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            resources.ApplyResources(this.menuStrip1, "menuStrip1");
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(293, 24);
-            this.menuStrip1.TabIndex = 11;
-            this.menuStrip1.Text = "menuStrip1";
             // 
             // helpToolStripMenuItem
             // 
@@ -153,51 +124,39 @@ namespace ocaso_tic_tac_toe
             this.aboutTheCreatorToolStripMenuItem,
             this.howToPlayToolStripMenuItem});
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
-            this.helpToolStripMenuItem.Text = "Help";
+            resources.ApplyResources(this.helpToolStripMenuItem, "helpToolStripMenuItem");
             // 
             // aboutTheCreatorToolStripMenuItem
             // 
             this.aboutTheCreatorToolStripMenuItem.Name = "aboutTheCreatorToolStripMenuItem";
-            this.aboutTheCreatorToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.aboutTheCreatorToolStripMenuItem.Text = "About the creator";
+            resources.ApplyResources(this.aboutTheCreatorToolStripMenuItem, "aboutTheCreatorToolStripMenuItem");
             this.aboutTheCreatorToolStripMenuItem.Click += new System.EventHandler(this.aboutTheCreatorToolStripMenuItem_Click);
             // 
             // howToPlayToolStripMenuItem
             // 
             this.howToPlayToolStripMenuItem.Name = "howToPlayToolStripMenuItem";
-            this.howToPlayToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.howToPlayToolStripMenuItem.Text = "How to play";
+            resources.ApplyResources(this.howToPlayToolStripMenuItem, "howToPlayToolStripMenuItem");
             this.howToPlayToolStripMenuItem.Click += new System.EventHandler(this.howToPlayToolStripMenuItem_Click);
             // 
             // exit_bttn
             // 
-            this.exit_bttn.Font = new System.Drawing.Font("Mongolian Baiti", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.exit_bttn.Location = new System.Drawing.Point(48, 305);
+            resources.ApplyResources(this.exit_bttn, "exit_bttn");
             this.exit_bttn.Name = "exit_bttn";
-            this.exit_bttn.Size = new System.Drawing.Size(195, 35);
-            this.exit_bttn.TabIndex = 13;
-            this.exit_bttn.Text = "Exit Game";
             this.exit_bttn.UseVisualStyleBackColor = true;
             this.exit_bttn.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // Restartbttn
             // 
-            this.Restartbttn.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Restartbttn.Location = new System.Drawing.Point(48, 267);
+            resources.ApplyResources(this.Restartbttn, "Restartbttn");
             this.Restartbttn.Name = "Restartbttn";
-            this.Restartbttn.Size = new System.Drawing.Size(195, 35);
-            this.Restartbttn.TabIndex = 14;
-            this.Restartbttn.Text = "Restart";
             this.Restartbttn.UseVisualStyleBackColor = true;
             this.Restartbttn.Click += new System.EventHandler(this.Restartbttn_Click);
             // 
-            // Form1
+            // TICTACTOE
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 11F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(293, 354);
             this.Controls.Add(this.Restartbttn);
             this.Controls.Add(this.exit_bttn);
             this.Controls.Add(this.T3);
@@ -210,13 +169,10 @@ namespace ocaso_tic_tac_toe
             this.Controls.Add(this.R2);
             this.Controls.Add(this.R1);
             this.Controls.Add(this.menuStrip1);
-            this.Font = new System.Drawing.Font("Mongolian Baiti", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.MainMenuStrip = this.menuStrip1;
             this.MaximizeBox = false;
-            this.MinimizeBox = false;
-            this.Name = "Form1";
+            this.Name = "TICTACTOE";
             this.ShowIcon = false;
-            this.Text = "TIC-TAC-TOE";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

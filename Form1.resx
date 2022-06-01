@@ -117,10 +117,370 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="R1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Historic, 26.25pt</value>
+  </data>
+  <data name="R1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 42</value>
+  </data>
+  <data name="R1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 68</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="R1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;R1.Name" xml:space="preserve">
+    <value>R1</value>
+  </data>
+  <data name="&gt;&gt;R1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;R1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;R1.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="R2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Historic, 26.25pt</value>
+  </data>
+  <data name="R2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 42</value>
+  </data>
+  <data name="R2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 68</value>
+  </data>
+  <data name="R2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;R2.Name" xml:space="preserve">
+    <value>R2</value>
+  </data>
+  <data name="&gt;&gt;R2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;R2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;R2.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="R3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Historic, 26.25pt</value>
+  </data>
+  <data name="R3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>195, 42</value>
+  </data>
+  <data name="R3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 68</value>
+  </data>
+  <data name="R3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;R3.Name" xml:space="preserve">
+    <value>R3</value>
+  </data>
+  <data name="&gt;&gt;R3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;R3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;R3.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="S3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Historic, 26.25pt</value>
+  </data>
+  <data name="S3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>195, 115</value>
+  </data>
+  <data name="S3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 68</value>
+  </data>
+  <data name="S3.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;S3.Name" xml:space="preserve">
+    <value>S3</value>
+  </data>
+  <data name="&gt;&gt;S3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;S3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;S3.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="S2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Historic, 26.25pt</value>
+  </data>
+  <data name="S2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 115</value>
+  </data>
+  <data name="S2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 68</value>
+  </data>
+  <data name="S2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;S2.Name" xml:space="preserve">
+    <value>S2</value>
+  </data>
+  <data name="&gt;&gt;S2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;S2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;S2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="S1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Historic, 26.25pt</value>
+  </data>
+  <data name="S1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 115</value>
+  </data>
+  <data name="S1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 68</value>
+  </data>
+  <data name="S1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;S1.Name" xml:space="preserve">
+    <value>S1</value>
+  </data>
+  <data name="&gt;&gt;S1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;S1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;S1.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="T3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Historic, 26.25pt</value>
+  </data>
+  <data name="T3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>195, 188</value>
+  </data>
+  <data name="T3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 68</value>
+  </data>
+  <data name="T3.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;T3.Name" xml:space="preserve">
+    <value>T3</value>
+  </data>
+  <data name="&gt;&gt;T3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;T3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;T3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="T2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Historic, 26.25pt</value>
+  </data>
+  <data name="T2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 188</value>
+  </data>
+  <data name="T2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 68</value>
+  </data>
+  <data name="T2.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;T2.Name" xml:space="preserve">
+    <value>T2</value>
+  </data>
+  <data name="&gt;&gt;T2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;T2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;T2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="T1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Historic, 26.25pt</value>
+  </data>
+  <data name="T1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 188</value>
+  </data>
+  <data name="T1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 68</value>
+  </data>
+  <data name="T1.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;T1.Name" xml:space="preserve">
+    <value>T1</value>
+  </data>
+  <data name="&gt;&gt;T1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;T1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;T1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
   <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
+  </metadata>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>293, 24</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 20</value>
+  </data>
+  <data name="helpToolStripMenuItem.Text" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="aboutTheCreatorToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 22</value>
+  </data>
+  <data name="aboutTheCreatorToolStripMenuItem.Text" xml:space="preserve">
+    <value>About the creator</value>
+  </data>
+  <data name="howToPlayToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 22</value>
+  </data>
+  <data name="howToPlayToolStripMenuItem.Text" xml:space="preserve">
+    <value>How to play</value>
+  </data>
+  <data name="exit_bttn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Mongolian Baiti, 11.25pt</value>
+  </data>
+  <data name="exit_bttn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 305</value>
+  </data>
+  <data name="exit_bttn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 35</value>
+  </data>
+  <data name="exit_bttn.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="exit_bttn.Text" xml:space="preserve">
+    <value>Exit Game</value>
+  </data>
+  <data name="&gt;&gt;exit_bttn.Name" xml:space="preserve">
+    <value>exit_bttn</value>
+  </data>
+  <data name="&gt;&gt;exit_bttn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;exit_bttn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;exit_bttn.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Restartbttn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Mongolian Baiti, 12pt</value>
+  </data>
+  <data name="Restartbttn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 267</value>
+  </data>
+  <data name="Restartbttn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 35</value>
+  </data>
+  <data name="Restartbttn.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="Restartbttn.Text" xml:space="preserve">
+    <value>Restart</value>
+  </data>
+  <data name="&gt;&gt;Restartbttn.Name" xml:space="preserve">
+    <value>Restartbttn</value>
+  </data>
+  <data name="&gt;&gt;Restartbttn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Restartbttn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Restartbttn.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
   </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>25</value>
   </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 11</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>293, 354</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Mongolian Baiti, 8.25pt</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>TIC-TAC-TOE</value>
+  </data>
+  <data name="&gt;&gt;helpToolStripMenuItem.Name" xml:space="preserve">
+    <value>helpToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;helpToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aboutTheCreatorToolStripMenuItem.Name" xml:space="preserve">
+    <value>aboutTheCreatorToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;aboutTheCreatorToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;howToPlayToolStripMenuItem.Name" xml:space="preserve">
+    <value>howToPlayToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;howToPlayToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>TICTACTOE</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
