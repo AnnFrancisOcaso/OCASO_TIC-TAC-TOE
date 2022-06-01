@@ -83,6 +83,12 @@ namespace ocaso_tic_tac_toe
             else if ((R3.Text == S3.Text) && (S3.Text == T3.Text) && (!R3.Enabled))
                 we_have_a_winner = true;
 
+            //diagonal check for winner
+            if ((R1.Text == S2.Text) && (S2.Text == T3.Text) && (!R1.Enabled))
+                we_have_a_winner = true;
+            else if ((R3.Text == S2.Text) && (S2.Text == T1.Text) && (!R3.Enabled))
+                we_have_a_winner = true;
+            
             if (we_have_a_winner)
             {
                 String winner = "";
