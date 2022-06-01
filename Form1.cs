@@ -12,7 +12,7 @@ namespace ocaso_tic_tac_toe
 {
     public partial class Form1 : Form
     {
-        
+
         bool turn = true;
         // true = X turn; false = Y turn
         int countingofturns = 0;
@@ -24,7 +24,7 @@ namespace ocaso_tic_tac_toe
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+
         }
 
         private void lblName_Click(object sender, EventArgs e)
@@ -57,7 +57,36 @@ namespace ocaso_tic_tac_toe
 
             turn = !turn;
             bttn.Enabled = false;
+
+            CheckForWinner();
         }
+
+        private void CheckForWinner()
+        {
+
+            bool we_have_a_winner = false;
+
+            //horizontal check for winner
+            if ((R1.Text == R2.Text) && (R2.Text == R3.Text))
+                we_have_a_winner = true;
+            else if ((S1.Text == S2.Text) && (S2.Text == S3.Text))
+                we_have_a_winner = true; 
+            else if ((T1.Text == T2.Text) && (T2.Text == T3.Text))
+                we_have_a_winner = true;
+          
+            if(we_have_a_winner)
+            {
+                String winner = "";
+                if (turn)
+                    winner = "X";
+                else
+                    winner = "O";
+
+                MessageBox.Show("We have a Winner!", "Congratulations!");
+            } // end if
+
+
+        } //end checkforwinner
 
         private void button1_Click_1(object sender, EventArgs e)
         {
