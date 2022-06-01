@@ -49,7 +49,13 @@ namespace ocaso_tic_tac_toe
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            Button bttn = (Button)sender;
+            if (turn)
+                bttn.Text = "X";
+            else
+                bttn.Text = "O";
+
+            turn = !turn;
         }
 
         private void button1_Click_1(object sender, EventArgs e)
