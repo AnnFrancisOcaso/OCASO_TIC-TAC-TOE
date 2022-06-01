@@ -55,6 +55,7 @@ namespace ocaso_tic_tac_toe
             this.R1.Size = new System.Drawing.Size(80, 68);
             this.R1.TabIndex = 0;
             this.R1.UseVisualStyleBackColor = true;
+            this.R1.Click += new System.EventHandler(this.button1_Click);
             // 
             // R2
             // 
@@ -64,6 +65,7 @@ namespace ocaso_tic_tac_toe
             this.R2.Size = new System.Drawing.Size(80, 68);
             this.R2.TabIndex = 1;
             this.R2.UseVisualStyleBackColor = true;
+            this.R2.Click += new System.EventHandler(this.button1_Click);
             // 
             // R3
             // 
@@ -73,6 +75,7 @@ namespace ocaso_tic_tac_toe
             this.R3.Size = new System.Drawing.Size(80, 68);
             this.R3.TabIndex = 2;
             this.R3.UseVisualStyleBackColor = true;
+            this.R3.Click += new System.EventHandler(this.button1_Click);
             // 
             // S3
             // 
@@ -82,6 +85,7 @@ namespace ocaso_tic_tac_toe
             this.S3.Size = new System.Drawing.Size(80, 68);
             this.S3.TabIndex = 5;
             this.S3.UseVisualStyleBackColor = true;
+            this.S3.Click += new System.EventHandler(this.button1_Click);
             // 
             // S2
             // 
@@ -91,6 +95,7 @@ namespace ocaso_tic_tac_toe
             this.S2.Size = new System.Drawing.Size(80, 68);
             this.S2.TabIndex = 4;
             this.S2.UseVisualStyleBackColor = true;
+            this.S2.Click += new System.EventHandler(this.button1_Click);
             // 
             // S1
             // 
@@ -100,6 +105,7 @@ namespace ocaso_tic_tac_toe
             this.S1.Size = new System.Drawing.Size(80, 68);
             this.S1.TabIndex = 3;
             this.S1.UseVisualStyleBackColor = true;
+            this.S1.Click += new System.EventHandler(this.button1_Click);
             // 
             // T3
             // 
@@ -109,6 +115,7 @@ namespace ocaso_tic_tac_toe
             this.T3.Size = new System.Drawing.Size(80, 68);
             this.T3.TabIndex = 8;
             this.T3.UseVisualStyleBackColor = true;
+            this.T3.Click += new System.EventHandler(this.button1_Click);
             // 
             // T2
             // 
@@ -118,6 +125,7 @@ namespace ocaso_tic_tac_toe
             this.T2.Size = new System.Drawing.Size(80, 68);
             this.T2.TabIndex = 7;
             this.T2.UseVisualStyleBackColor = true;
+            this.T2.Click += new System.EventHandler(this.button1_Click);
             // 
             // T1
             // 
@@ -127,6 +135,7 @@ namespace ocaso_tic_tac_toe
             this.T1.Size = new System.Drawing.Size(80, 68);
             this.T1.TabIndex = 6;
             this.T1.UseVisualStyleBackColor = true;
+            this.T1.Click += new System.EventHandler(this.button1_Click);
             // 
             // menuStrip1
             // 
