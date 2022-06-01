@@ -56,9 +56,15 @@ namespace ocaso_tic_tac_toe
                 bttn.Text = "O";
 
             turn = !turn;
+            bttn.Enabled = false;
         }
 
         private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Restartbttn_Click(object sender, EventArgs e)
         {
 
         }

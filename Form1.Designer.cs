@@ -42,8 +42,8 @@ namespace ocaso_tic_tac_toe
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutTheCreatorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.howToPlayToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.Restartbttn = new System.Windows.Forms.Button();
             this.exitbttn = new System.Windows.Forms.Button();
+            this.Restartbttn = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -170,17 +170,6 @@ namespace ocaso_tic_tac_toe
             this.howToPlayToolStripMenuItem.Text = "How to play";
             this.howToPlayToolStripMenuItem.Click += new System.EventHandler(this.howToPlayToolStripMenuItem_Click);
             // 
-            // Restartbttn
-            // 
-            this.Restartbttn.Font = new System.Drawing.Font("Mongolian Baiti", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Restartbttn.Location = new System.Drawing.Point(48, 267);
-            this.Restartbttn.Name = "Restartbttn";
-            this.Restartbttn.Size = new System.Drawing.Size(195, 35);
-            this.Restartbttn.TabIndex = 12;
-            this.Restartbttn.Text = "Restart";
-            this.Restartbttn.UseVisualStyleBackColor = true;
-            this.Restartbttn.Click += new System.EventHandler(this.button1_Click);
-            // 
             // exitbttn
             // 
             this.exitbttn.Font = new System.Drawing.Font("Mongolian Baiti", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -192,14 +181,25 @@ namespace ocaso_tic_tac_toe
             this.exitbttn.UseVisualStyleBackColor = true;
             this.exitbttn.Click += new System.EventHandler(this.button1_Click_1);
             // 
+            // Restartbttn
+            // 
+            this.Restartbttn.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Restartbttn.Location = new System.Drawing.Point(48, 267);
+            this.Restartbttn.Name = "Restartbttn";
+            this.Restartbttn.Size = new System.Drawing.Size(195, 35);
+            this.Restartbttn.TabIndex = 14;
+            this.Restartbttn.Text = "Restart";
+            this.Restartbttn.UseVisualStyleBackColor = true;
+            this.Restartbttn.Click += new System.EventHandler(this.Restartbttn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 11F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(293, 354);
-            this.Controls.Add(this.exitbttn);
             this.Controls.Add(this.Restartbttn);
+            this.Controls.Add(this.exitbttn);
             this.Controls.Add(this.T3);
             this.Controls.Add(this.T2);
             this.Controls.Add(this.T1);
@@ -240,8 +240,8 @@ namespace ocaso_tic_tac_toe
         private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem aboutTheCreatorToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem howToPlayToolStripMenuItem;
-        private System.Windows.Forms.Button Restartbttn;
         private System.Windows.Forms.Button exitbttn;
+        private System.Windows.Forms.Button Restartbttn;
     }
 }
 
