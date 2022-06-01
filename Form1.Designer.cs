@@ -39,12 +39,11 @@ namespace ocaso_tic_tac_toe
             this.T2 = new System.Windows.Forms.Button();
             this.T1 = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.newGameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutTheCreatorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.howToPlayToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.Restartbttn = new System.Windows.Forms.Button();
+            this.exitbttn = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -132,22 +131,12 @@ namespace ocaso_tic_tac_toe
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.fileToolStripMenuItem,
             this.helpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(293, 24);
             this.menuStrip1.TabIndex = 11;
             this.menuStrip1.Text = "menuStrip1";
-            // 
-            // fileToolStripMenuItem
-            // 
-            this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.newGameToolStripMenuItem,
-            this.exitToolStripMenuItem});
-            this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
-            this.fileToolStripMenuItem.Text = "File";
             // 
             // helpToolStripMenuItem
             // 
@@ -157,12 +146,6 @@ namespace ocaso_tic_tac_toe
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
             this.helpToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
             this.helpToolStripMenuItem.Text = "Help";
-            // 
-            // newGameToolStripMenuItem
-            // 
-            this.newGameToolStripMenuItem.Name = "newGameToolStripMenuItem";
-            this.newGameToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.newGameToolStripMenuItem.Text = "New Game";
             // 
             // aboutTheCreatorToolStripMenuItem
             // 
@@ -178,17 +161,36 @@ namespace ocaso_tic_tac_toe
             this.howToPlayToolStripMenuItem.Text = "How to play";
             this.howToPlayToolStripMenuItem.Click += new System.EventHandler(this.howToPlayToolStripMenuItem_Click);
             // 
-            // exitToolStripMenuItem
+            // Restartbttn
             // 
-            this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.exitToolStripMenuItem.Text = "Exit";
+            this.Restartbttn.Font = new System.Drawing.Font("Mongolian Baiti", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Restartbttn.Location = new System.Drawing.Point(19, 46);
+            this.Restartbttn.Name = "Restartbttn";
+            this.Restartbttn.Size = new System.Drawing.Size(75, 23);
+            this.Restartbttn.TabIndex = 12;
+            this.Restartbttn.Text = "Restart";
+            this.Restartbttn.UseVisualStyleBackColor = true;
+            this.Restartbttn.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // exitbttn
+            // 
+            this.exitbttn.Font = new System.Drawing.Font("Mongolian Baiti", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.exitbttn.Location = new System.Drawing.Point(235, 46);
+            this.exitbttn.Name = "exitbttn";
+            this.exitbttn.Size = new System.Drawing.Size(40, 23);
+            this.exitbttn.TabIndex = 13;
+            this.exitbttn.Text = "X";
+            this.exitbttn.UseVisualStyleBackColor = true;
+            this.exitbttn.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 11F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(293, 316);
+            this.BackColor = System.Drawing.SystemColors.Control;
+            this.ClientSize = new System.Drawing.Size(293, 364);
+            this.Controls.Add(this.exitbttn);
+            this.Controls.Add(this.Restartbttn);
             this.Controls.Add(this.T3);
             this.Controls.Add(this.T2);
             this.Controls.Add(this.T1);
@@ -223,12 +225,11 @@ namespace ocaso_tic_tac_toe
         private System.Windows.Forms.Button T2;
         private System.Windows.Forms.Button T1;
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem newGameToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem aboutTheCreatorToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem howToPlayToolStripMenuItem;
+        private System.Windows.Forms.Button Restartbttn;
+        private System.Windows.Forms.Button exitbttn;
     }
 }
 

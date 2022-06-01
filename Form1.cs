@@ -41,5 +41,15 @@ namespace ocaso_tic_tac_toe
         {
             MessageBox.Show("(1) The game is played on a three-by-three-square grid. (2) Your friend is O, and you are X.Players take turns marking empty squares with their marks. (3) The winner is the first player to get three marks in a row (up, down, across, or diagonally). (4) The game is over when all 9 squares are filled.The game ends in a tie if no player has three consecutive marks.", "Rules for Tic-Tac-Toe");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
