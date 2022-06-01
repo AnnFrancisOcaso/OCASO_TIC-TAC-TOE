@@ -57,6 +57,7 @@ namespace ocaso_tic_tac_toe
 
             turn = !turn;
             bttn.Enabled = false;
+            countingofturns++;
 
             CheckForWinner();
         }
@@ -67,11 +68,11 @@ namespace ocaso_tic_tac_toe
             bool we_have_a_winner = false;
 
             //horizontal check for winner
-            if ((R1.Text == R2.Text) && (R2.Text == R3.Text) && (!R1.Enabled));
+            if ((R1.Text == R2.Text) && (R2.Text == R3.Text) && (!R1.Enabled))
                 we_have_a_winner = true;
-            if ((S1.Text == S2.Text) && (S2.Text == S3.Text) && (!S1.Enabled));
+            else if ((S1.Text == S2.Text) && (S2.Text == S3.Text) && (!S1.Enabled)) 
                 we_have_a_winner = true;
-            if ((T1.Text == T2.Text) && (T2.Text == T3.Text) && (!T1.Enabled));
+            else if ((T1.Text == T2.Text) && (T2.Text == T3.Text) && (!T1.Enabled))
                 we_have_a_winner = true;
 
             if (we_have_a_winner)
@@ -84,7 +85,12 @@ namespace ocaso_tic_tac_toe
 
                 MessageBox.Show("We have a Winner!", "Congratulations!");
             } // end if
+            else
 
+            {
+                if(countingofturns == 9)
+                    MessageBox.Show("Try again!", "Tie!");
+            }
 
         } //end checkforwinner
 
