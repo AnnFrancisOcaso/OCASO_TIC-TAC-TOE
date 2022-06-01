@@ -12,6 +12,11 @@ namespace ocaso_tic_tac_toe
 {
     public partial class Form1 : Form
     {
+        
+        bool turn = true;
+        // true = X turn; false = Y turn
+        int countingofturns = 0;
+
         public Form1()
         {
             InitializeComponent();

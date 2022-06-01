@@ -50,7 +50,7 @@ namespace ocaso_tic_tac_toe
             // R1
             // 
             this.R1.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R1.Location = new System.Drawing.Point(19, 91);
+            this.R1.Location = new System.Drawing.Point(19, 42);
             this.R1.Name = "R1";
             this.R1.Size = new System.Drawing.Size(80, 68);
             this.R1.TabIndex = 0;
@@ -59,7 +59,7 @@ namespace ocaso_tic_tac_toe
             // R2
             // 
             this.R2.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R2.Location = new System.Drawing.Point(106, 91);
+            this.R2.Location = new System.Drawing.Point(106, 42);
             this.R2.Name = "R2";
             this.R2.Size = new System.Drawing.Size(80, 68);
             this.R2.TabIndex = 1;
@@ -68,7 +68,7 @@ namespace ocaso_tic_tac_toe
             // R3
             // 
             this.R3.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R3.Location = new System.Drawing.Point(195, 91);
+            this.R3.Location = new System.Drawing.Point(195, 42);
             this.R3.Name = "R3";
             this.R3.Size = new System.Drawing.Size(80, 68);
             this.R3.TabIndex = 2;
@@ -77,7 +77,7 @@ namespace ocaso_tic_tac_toe
             // S3
             // 
             this.S3.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.S3.Location = new System.Drawing.Point(195, 164);
+            this.S3.Location = new System.Drawing.Point(195, 115);
             this.S3.Name = "S3";
             this.S3.Size = new System.Drawing.Size(80, 68);
             this.S3.TabIndex = 5;
@@ -86,7 +86,7 @@ namespace ocaso_tic_tac_toe
             // S2
             // 
             this.S2.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.S2.Location = new System.Drawing.Point(106, 164);
+            this.S2.Location = new System.Drawing.Point(106, 115);
             this.S2.Name = "S2";
             this.S2.Size = new System.Drawing.Size(80, 68);
             this.S2.TabIndex = 4;
@@ -95,7 +95,7 @@ namespace ocaso_tic_tac_toe
             // S1
             // 
             this.S1.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.S1.Location = new System.Drawing.Point(19, 164);
+            this.S1.Location = new System.Drawing.Point(19, 115);
             this.S1.Name = "S1";
             this.S1.Size = new System.Drawing.Size(80, 68);
             this.S1.TabIndex = 3;
@@ -104,7 +104,7 @@ namespace ocaso_tic_tac_toe
             // T3
             // 
             this.T3.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.T3.Location = new System.Drawing.Point(195, 237);
+            this.T3.Location = new System.Drawing.Point(195, 188);
             this.T3.Name = "T3";
             this.T3.Size = new System.Drawing.Size(80, 68);
             this.T3.TabIndex = 8;
@@ -113,7 +113,7 @@ namespace ocaso_tic_tac_toe
             // T2
             // 
             this.T2.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.T2.Location = new System.Drawing.Point(106, 237);
+            this.T2.Location = new System.Drawing.Point(106, 188);
             this.T2.Name = "T2";
             this.T2.Size = new System.Drawing.Size(80, 68);
             this.T2.TabIndex = 7;
@@ -122,7 +122,7 @@ namespace ocaso_tic_tac_toe
             // T1
             // 
             this.T1.Font = new System.Drawing.Font("Segoe UI Historic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.T1.Location = new System.Drawing.Point(19, 237);
+            this.T1.Location = new System.Drawing.Point(19, 188);
             this.T1.Name = "T1";
             this.T1.Size = new System.Drawing.Size(80, 68);
             this.T1.TabIndex = 6;
@@ -164,9 +164,9 @@ namespace ocaso_tic_tac_toe
             // Restartbttn
             // 
             this.Restartbttn.Font = new System.Drawing.Font("Mongolian Baiti", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Restartbttn.Location = new System.Drawing.Point(19, 46);
+            this.Restartbttn.Location = new System.Drawing.Point(48, 267);
             this.Restartbttn.Name = "Restartbttn";
-            this.Restartbttn.Size = new System.Drawing.Size(75, 23);
+            this.Restartbttn.Size = new System.Drawing.Size(195, 35);
             this.Restartbttn.TabIndex = 12;
             this.Restartbttn.Text = "Restart";
             this.Restartbttn.UseVisualStyleBackColor = true;
@@ -175,11 +175,11 @@ namespace ocaso_tic_tac_toe
             // exitbttn
             // 
             this.exitbttn.Font = new System.Drawing.Font("Mongolian Baiti", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.exitbttn.Location = new System.Drawing.Point(235, 46);
+            this.exitbttn.Location = new System.Drawing.Point(48, 305);
             this.exitbttn.Name = "exitbttn";
-            this.exitbttn.Size = new System.Drawing.Size(40, 23);
+            this.exitbttn.Size = new System.Drawing.Size(195, 35);
             this.exitbttn.TabIndex = 13;
-            this.exitbttn.Text = "X";
+            this.exitbttn.Text = "Exit Game";
             this.exitbttn.UseVisualStyleBackColor = true;
             this.exitbttn.Click += new System.EventHandler(this.button1_Click_1);
             // 
@@ -188,7 +188,7 @@ namespace ocaso_tic_tac_toe
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 11F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(293, 364);
+            this.ClientSize = new System.Drawing.Size(293, 354);
             this.Controls.Add(this.exitbttn);
             this.Controls.Add(this.Restartbttn);
             this.Controls.Add(this.T3);
@@ -203,7 +203,10 @@ namespace ocaso_tic_tac_toe
             this.Controls.Add(this.menuStrip1);
             this.Font = new System.Drawing.Font("Mongolian Baiti", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.MainMenuStrip = this.menuStrip1;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
+            this.ShowIcon = false;
             this.Text = "TIC-TAC-TOE";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
