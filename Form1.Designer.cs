@@ -43,8 +43,7 @@ namespace ocaso_tic_tac_toe
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutTheCreatorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.howToPlayToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.exit_bttn = new System.Windows.Forms.Button();
-            this.Restartbttn = new System.Windows.Forms.Button();
+            this.Exit = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -138,27 +137,19 @@ namespace ocaso_tic_tac_toe
             resources.ApplyResources(this.howToPlayToolStripMenuItem, "howToPlayToolStripMenuItem");
             this.howToPlayToolStripMenuItem.Click += new System.EventHandler(this.howToPlayToolStripMenuItem_Click);
             // 
-            // exit_bttn
+            // Exit
             // 
-            resources.ApplyResources(this.exit_bttn, "exit_bttn");
-            this.exit_bttn.Name = "exit_bttn";
-            this.exit_bttn.UseVisualStyleBackColor = true;
-            this.exit_bttn.Click += new System.EventHandler(this.button1_Click_1);
-            // 
-            // Restartbttn
-            // 
-            resources.ApplyResources(this.Restartbttn, "Restartbttn");
-            this.Restartbttn.Name = "Restartbttn";
-            this.Restartbttn.UseVisualStyleBackColor = true;
-            this.Restartbttn.Click += new System.EventHandler(this.Restartbttn_Click);
+            resources.ApplyResources(this.Exit, "Exit");
+            this.Exit.Name = "Exit";
+            this.Exit.UseVisualStyleBackColor = true;
+            this.Exit.Click += new System.EventHandler(this.Exit_Click);
             // 
             // TICTACTOE
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.Controls.Add(this.Restartbttn);
-            this.Controls.Add(this.exit_bttn);
+            this.Controls.Add(this.Exit);
             this.Controls.Add(this.T3);
             this.Controls.Add(this.T2);
             this.Controls.Add(this.T1);
@@ -196,8 +187,7 @@ namespace ocaso_tic_tac_toe
         private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem aboutTheCreatorToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem howToPlayToolStripMenuItem;
-        private System.Windows.Forms.Button exit_bttn;
-        private System.Windows.Forms.Button Restartbttn;
+        private System.Windows.Forms.Button Exit;
     }
 }
 

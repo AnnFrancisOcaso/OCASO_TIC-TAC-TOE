@@ -70,7 +70,7 @@ namespace ocaso_tic_tac_toe
             //horizontal check for winner
             if ((R1.Text == R2.Text) && (R2.Text == R3.Text) && (!R1.Enabled))
                 we_have_a_winner = true;
-            else if ((S1.Text == S2.Text) && (S2.Text == S3.Text) && (!S1.Enabled)) 
+            else if ((S1.Text == S2.Text) && (S2.Text == S3.Text) && (!S1.Enabled))
                 we_have_a_winner = true;
             else if ((T1.Text == T2.Text) && (T2.Text == T3.Text) && (!T1.Enabled))
                 we_have_a_winner = true;
@@ -84,13 +84,14 @@ namespace ocaso_tic_tac_toe
                 we_have_a_winner = true;
 
             //diagonal check for winner
-            if ((R1.Text == S2.Text) && (S2.Text == T3.Text) && (!R1.Enabled))
+            else if ((R1.Text == S2.Text) && (S2.Text == T3.Text) && (!R1.Enabled))
                 we_have_a_winner = true;
             else if ((R3.Text == S2.Text) && (S2.Text == T1.Text) && (!R3.Enabled))
                 we_have_a_winner = true;
-            
+
             if (we_have_a_winner)
             {
+
                 String winner = "";
                 if (turn)
                     winner = "X";
@@ -99,23 +100,22 @@ namespace ocaso_tic_tac_toe
 
                 MessageBox.Show("We have a Winner!", "Congratulations!");
             } // end if
+
             else
 
             {
-                if(countingofturns == 9)
+                if (countingofturns == 9)
                     MessageBox.Show("Try again!", "Tie!");
             }
 
         } //end checkforwinner
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void Exit_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void Restartbttn_Click(object sender, EventArgs e)
-        {
-
+            // close the form
+            this.Close();
         }
     }
 }
+        
+  

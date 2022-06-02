@@ -141,7 +141,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;R1.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>9</value>
   </data>
   <data name="R2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -165,7 +165,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;R2.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>8</value>
   </data>
   <data name="R3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -189,7 +189,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;R3.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>7</value>
   </data>
   <data name="S3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -213,7 +213,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;S3.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>4</value>
   </data>
   <data name="S2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -237,7 +237,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;S2.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>5</value>
   </data>
   <data name="S1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -261,7 +261,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;S1.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>6</value>
   </data>
   <data name="T3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -285,7 +285,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;T3.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>1</value>
   </data>
   <data name="T2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -309,7 +309,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;T2.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="T1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -333,11 +333,29 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;T1.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>3</value>
   </data>
   <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <data name="aboutTheCreatorToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 22</value>
+  </data>
+  <data name="aboutTheCreatorToolStripMenuItem.Text" xml:space="preserve">
+    <value>About the creator</value>
+  </data>
+  <data name="howToPlayToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 22</value>
+  </data>
+  <data name="howToPlayToolStripMenuItem.Text" xml:space="preserve">
+    <value>How to play</value>
+  </data>
+  <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 20</value>
+  </data>
+  <data name="helpToolStripMenuItem.Text" xml:space="preserve">
+    <value>Help</value>
+  </data>
   <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
@@ -360,78 +378,30 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>10</value>
   </data>
-  <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>44, 20</value>
+  <data name="Exit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 300</value>
   </data>
-  <data name="helpToolStripMenuItem.Text" xml:space="preserve">
-    <value>Help</value>
+  <data name="Exit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
   </data>
-  <data name="aboutTheCreatorToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>167, 22</value>
+  <data name="Exit.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
   </data>
-  <data name="aboutTheCreatorToolStripMenuItem.Text" xml:space="preserve">
-    <value>About the creator</value>
+  <data name="Exit.Text" xml:space="preserve">
+    <value>Exit</value>
   </data>
-  <data name="howToPlayToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>167, 22</value>
+  <data name="&gt;&gt;Exit.Name" xml:space="preserve">
+    <value>Exit</value>
   </data>
-  <data name="howToPlayToolStripMenuItem.Text" xml:space="preserve">
-    <value>How to play</value>
-  </data>
-  <data name="exit_bttn.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mongolian Baiti, 11.25pt</value>
-  </data>
-  <data name="exit_bttn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 305</value>
-  </data>
-  <data name="exit_bttn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>195, 35</value>
-  </data>
-  <data name="exit_bttn.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="exit_bttn.Text" xml:space="preserve">
-    <value>Exit Game</value>
-  </data>
-  <data name="&gt;&gt;exit_bttn.Name" xml:space="preserve">
-    <value>exit_bttn</value>
-  </data>
-  <data name="&gt;&gt;exit_bttn.Type" xml:space="preserve">
+  <data name="&gt;&gt;Exit.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;exit_bttn.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Exit.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;exit_bttn.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="Restartbttn.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mongolian Baiti, 12pt</value>
-  </data>
-  <data name="Restartbttn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 267</value>
-  </data>
-  <data name="Restartbttn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>195, 35</value>
-  </data>
-  <data name="Restartbttn.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="Restartbttn.Text" xml:space="preserve">
-    <value>Restart</value>
-  </data>
-  <data name="&gt;&gt;Restartbttn.Name" xml:space="preserve">
-    <value>Restartbttn</value>
-  </data>
-  <data name="&gt;&gt;Restartbttn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Restartbttn.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;Restartbttn.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;Exit.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
