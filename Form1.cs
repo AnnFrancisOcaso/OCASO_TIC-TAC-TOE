@@ -27,15 +27,6 @@ namespace ocaso_tic_tac_toe
 
         }
 
-        private void lblName_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void aboutTheCreatorToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -115,6 +106,8 @@ namespace ocaso_tic_tac_toe
             // close the form
             this.Close();
         }
+
+      
     }
 }
         

@@ -139,9 +139,10 @@ namespace ocaso_tic_tac_toe
             // 
             // Exit
             // 
+            this.Exit.BackColor = System.Drawing.Color.CadetBlue;
             resources.ApplyResources(this.Exit, "Exit");
             this.Exit.Name = "Exit";
-            this.Exit.UseVisualStyleBackColor = true;
+            this.Exit.UseVisualStyleBackColor = false;
             this.Exit.Click += new System.EventHandler(this.Exit_Click);
             // 
             // TICTACTOE
@@ -188,6 +189,7 @@ namespace ocaso_tic_tac_toe
         private System.Windows.Forms.ToolStripMenuItem aboutTheCreatorToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem howToPlayToolStripMenuItem;
         private System.Windows.Forms.Button Exit;
+ 
     }
 }
 

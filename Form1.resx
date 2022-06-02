@@ -118,6 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="R1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBwoKCggICAgHBwgIBwoHBwcHBw8ICQcKFREWFhURHxMY
+        HSggGCYxJxMfITEhJSkrLi4uFx8zODMsNygtLiv/2wBDAQoKCg0NDQ8NDw8rGRUZLSs3KzcrLS0tKy0t
+        LS0rLSs3KysrKysrKystKysrKysrKysrKysrKysrKysrKysrKyv/wAARCADhAOEDASIAAhEBAxEB/8QA
+        FgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFxABAQEBAAAAAAAAAAAAAAAAAAERIf/EABcBAQEBAQAAAAAA
+        AAAAAAAAAAABBQT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDdIqM5xCiACgIogKgo
+        ICqAioIAAKAIoCAtBFAAQUFBBAAVAAUQFRUAFQBUAVABUABQUAEECKACAKigigAIqiKgCiKgIAKioCoq
+        KAoCCoAoAIoAIoAigioqCCooKAAIAqACiAoIgKiggCiiCACgiooAAIqKCKAAigIoAIAogAoAIqAKAACi
+        KCCAKKACKCCAKKIqCVUUEVAFQAFQBUVAFBRFRQEFBAEFQAVBQQVKCiACoqggIAqKKgAKIAKACKggYoAg
+        oKICggCooIoAIKggoAIoIKiioqIKIqgAAAgAigKAIKAioAoIAACKgKIAoCiCiCKIoKCAiooAqCCoBAVR
+        FOiCAoCCgCCgqCAogKCKKioCiAKCIKioCoAACioqAqAAKAiiAqKiCiCgKgKCICooAigioAqaooAIIqAG
+        gqiKIgqKgAAKAoAAAgKgoCKIICqCCoIKAgAKigAgoqKiAqKCCgIKKACAimKIqACoAqAAoiAoAgCgqKgg
+        oogogiiAoICiKAACKAAgCoqAAqiKCAIoICqIqKCKCAJQBRFFEVBFQBQiKCoIKIAogoCgIqKAgqAAoIqI
+        CoqiAICpAFBAVBVAQQBUBRFUQUQRQBAAIoKIKAIogAKIoICKAkABQFEUASKCBQFEAB//2Q==
+</value>
+  </data>
   <data name="R1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
   </data>
@@ -143,6 +160,23 @@
   <data name="&gt;&gt;R1.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
+  <data name="R2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBwoKCggICAgHBwgIBwoHBwcHBw8ICQcKFREWFhURHxMY
+        HSggGCYxJxMfITEhJSkrLi4uFx8zODMsNygtLiv/2wBDAQoKCg0NDQ8NDw8rGRUZLSs3KzcrLS0tKy0t
+        LS0rLSs3KysrKysrKystKysrKysrKysrKysrKysrKysrKysrKyv/wAARCADhAOEDASIAAhEBAxEB/8QA
+        FgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFxABAQEBAAAAAAAAAAAAAAAAAAERIf/EABcBAQEBAQAAAAAA
+        AAAAAAAAAAABBQT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDdIqM5xCiACgIogKgo
+        ICqAioIAAKAIoCAtBFAAQUFBBAAVAAUQFRUAFQBUAVABUABQUAEECKACAKigigAIqiKgCiKgIAKioCoq
+        KAoCCoAoAIoAIoAigioqCCooKAAIAqACiAoIgKiggCiiCACgiooAAIqKCKAAigIoAIAogAoAIqAKAACi
+        KCCAKKACKCCAKKIqCVUUEVAFQAFQBUVAFBRFRQEFBAEFQAVBQQVKCiACoqggIAqKKgAKIAKACKggYoAg
+        oKICggCooIoAIKggoAIoIKiioqIKIqgAAAgAigKAIKAioAoIAACKgKIAoCiCiCKIoKCAiooAqCCoBAVR
+        FOiCAoCCgCCgqCAogKCKKioCiAKCIKioCoAACioqAqAAKAiiAqKiCiCgKgKCICooAigioAqaooAIIqAG
+        gqiKIgqKgAAKAoAAAgKgoCKIICqCCoIKAgAKigAgoqKiAqKCCgIKKACAimKIqACoAqAAoiAoAgCgqKgg
+        oogogiiAoICiKAACKAAgCoqAAqiKCAIoICqIqKCKCAJQBRFFEVBFQBQiKCoIKIAogoCgIqKAgqAAoIqI
+        CoqiAICpAFBAVBVAQQBUBRFUQUQRQBAAIoKIKAIogAKIoICKAkABQFEUASKCBQFEAB//2Q==
+</value>
+  </data>
   <data name="R2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
   </data>
@@ -166,6 +200,23 @@
   </data>
   <data name="&gt;&gt;R2.ZOrder" xml:space="preserve">
     <value>8</value>
+  </data>
+  <data name="R3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBwoKCggICAgHBwgIBwoHBwcHBw8ICQcKFREWFhURHxMY
+        HSggGCYxJxMfITEhJSkrLi4uFx8zODMsNygtLiv/2wBDAQoKCg0NDQ8NDw8rGRUZLSs3KzcrLS0tKy0t
+        LS0rLSs3KysrKysrKystKysrKysrKysrKysrKysrKysrKysrKyv/wAARCADhAOEDASIAAhEBAxEB/8QA
+        FgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFxABAQEBAAAAAAAAAAAAAAAAAAERIf/EABcBAQEBAQAAAAAA
+        AAAAAAAAAAABBQT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDdIqM5xCiACgIogKgo
+        ICqAioIAAKAIoCAtBFAAQUFBBAAVAAUQFRUAFQBUAVABUABQUAEECKACAKigigAIqiKgCiKgIAKioCoq
+        KAoCCoAoAIoAIoAigioqCCooKAAIAqACiAoIgKiggCiiCACgiooAAIqKCKAAigIoAIAogAoAIqAKAACi
+        KCCAKKACKCCAKKIqCVUUEVAFQAFQBUVAFBRFRQEFBAEFQAVBQQVKCiACoqggIAqKKgAKIAKACKggYoAg
+        oKICggCooIoAIKggoAIoIKiioqIKIqgAAAgAigKAIKAioAoIAACKgKIAoCiCiCKIoKCAiooAqCCoBAVR
+        FOiCAoCCgCCgqCAogKCKKioCiAKCIKioCoAACioqAqAAKAiiAqKiCiCgKgKCICooAigioAqaooAIIqAG
+        gqiKIgqKgAAKAoAAAgKgoCKIICqCCoIKAgAKigAgoqKiAqKCCgIKKACAimKIqACoAqAAoiAoAgCgqKgg
+        oogogiiAoICiKAACKAAgCoqAAqiKCAIoICqIqKCKCAJQBRFFEVBFQBQiKCoIKIAogoCgIqKAgqAAoIqI
+        CoqiAICpAFBAVBVAQQBUBRFUQUQRQBAAIoKIKAIogAKIoICKAkABQFEUASKCBQFEAB//2Q==
+</value>
   </data>
   <data name="R3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -191,6 +242,23 @@
   <data name="&gt;&gt;R3.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
+  <data name="S3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBwoKCggICAgHBwgIBwoHBwcHBw8ICQcKFREWFhURHxMY
+        HSggGCYxJxMfITEhJSkrLi4uFx8zODMsNygtLiv/2wBDAQoKCg0NDQ8NDw8rGRUZLSs3KzcrLS0tKy0t
+        LS0rLSs3KysrKysrKystKysrKysrKysrKysrKysrKysrKysrKyv/wAARCADhAOEDASIAAhEBAxEB/8QA
+        FgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFxABAQEBAAAAAAAAAAAAAAAAAAERIf/EABcBAQEBAQAAAAAA
+        AAAAAAAAAAABBQT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDdIqM5xCiACgIogKgo
+        ICqAioIAAKAIoCAtBFAAQUFBBAAVAAUQFRUAFQBUAVABUABQUAEECKACAKigigAIqiKgCiKgIAKioCoq
+        KAoCCoAoAIoAIoAigioqCCooKAAIAqACiAoIgKiggCiiCACgiooAAIqKCKAAigIoAIAogAoAIqAKAACi
+        KCCAKKACKCCAKKIqCVUUEVAFQAFQBUVAFBRFRQEFBAEFQAVBQQVKCiACoqggIAqKKgAKIAKACKggYoAg
+        oKICggCooIoAIKggoAIoIKiioqIKIqgAAAgAigKAIKAioAoIAACKgKIAoCiCiCKIoKCAiooAqCCoBAVR
+        FOiCAoCCgCCgqCAogKCKKioCiAKCIKioCoAACioqAqAAKAiiAqKiCiCgKgKCICooAigioAqaooAIIqAG
+        gqiKIgqKgAAKAoAAAgKgoCKIICqCCoIKAgAKigAgoqKiAqKCCgIKKACAimKIqACoAqAAoiAoAgCgqKgg
+        oogogiiAoICiKAACKAAgCoqAAqiKCAIoICqIqKCKCAJQBRFFEVBFQBQiKCoIKIAogoCgIqKAgqAAoIqI
+        CoqiAICpAFBAVBVAQQBUBRFUQUQRQBAAIoKIKAIogAKIoICKAkABQFEUASKCBQFEAB//2Q==
+</value>
+  </data>
   <data name="S3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
   </data>
@@ -214,6 +282,23 @@
   </data>
   <data name="&gt;&gt;S3.ZOrder" xml:space="preserve">
     <value>4</value>
+  </data>
+  <data name="S2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBwoKCggICAgHBwgIBwoHBwcHBw8ICQcKFREWFhURHxMY
+        HSggGCYxJxMfITEhJSkrLi4uFx8zODMsNygtLiv/2wBDAQoKCg0NDQ8NDw8rGRUZLSs3KzcrLS0tKy0t
+        LS0rLSs3KysrKysrKystKysrKysrKysrKysrKysrKysrKysrKyv/wAARCADhAOEDASIAAhEBAxEB/8QA
+        FgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFxABAQEBAAAAAAAAAAAAAAAAAAERIf/EABcBAQEBAQAAAAAA
+        AAAAAAAAAAABBQT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDdIqM5xCiACgIogKgo
+        ICqAioIAAKAIoCAtBFAAQUFBBAAVAAUQFRUAFQBUAVABUABQUAEECKACAKigigAIqiKgCiKgIAKioCoq
+        KAoCCoAoAIoAIoAigioqCCooKAAIAqACiAoIgKiggCiiCACgiooAAIqKCKAAigIoAIAogAoAIqAKAACi
+        KCCAKKACKCCAKKIqCVUUEVAFQAFQBUVAFBRFRQEFBAEFQAVBQQVKCiACoqggIAqKKgAKIAKACKggYoAg
+        oKICggCooIoAIKggoAIoIKiioqIKIqgAAAgAigKAIKAioAoIAACKgKIAoCiCiCKIoKCAiooAqCCoBAVR
+        FOiCAoCCgCCgqCAogKCKKioCiAKCIKioCoAACioqAqAAKAiiAqKiCiCgKgKCICooAigioAqaooAIIqAG
+        gqiKIgqKgAAKAoAAAgKgoCKIICqCCoIKAgAKigAgoqKiAqKCCgIKKACAimKIqACoAqAAoiAoAgCgqKgg
+        oogogiiAoICiKAACKAAgCoqAAqiKCAIoICqIqKCKCAJQBRFFEVBFQBQiKCoIKIAogoCgIqKAgqAAoIqI
+        CoqiAICpAFBAVBVAQQBUBRFUQUQRQBAAIoKIKAIogAKIoICKAkABQFEUASKCBQFEAB//2Q==
+</value>
   </data>
   <data name="S2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -239,6 +324,23 @@
   <data name="&gt;&gt;S2.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <data name="S1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBwoKCggICAgHBwgIBwoHBwcHBw8ICQcKFREWFhURHxMY
+        HSggGCYxJxMfITEhJSkrLi4uFx8zODMsNygtLiv/2wBDAQoKCg0NDQ8NDw8rGRUZLSs3KzcrLS0tKy0t
+        LS0rLSs3KysrKysrKystKysrKysrKysrKysrKysrKysrKysrKyv/wAARCADhAOEDASIAAhEBAxEB/8QA
+        FgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFxABAQEBAAAAAAAAAAAAAAAAAAERIf/EABcBAQEBAQAAAAAA
+        AAAAAAAAAAABBQT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDdIqM5xCiACgIogKgo
+        ICqAioIAAKAIoCAtBFAAQUFBBAAVAAUQFRUAFQBUAVABUABQUAEECKACAKigigAIqiKgCiKgIAKioCoq
+        KAoCCoAoAIoAIoAigioqCCooKAAIAqACiAoIgKiggCiiCACgiooAAIqKCKAAigIoAIAogAoAIqAKAACi
+        KCCAKKACKCCAKKIqCVUUEVAFQAFQBUVAFBRFRQEFBAEFQAVBQQVKCiACoqggIAqKKgAKIAKACKggYoAg
+        oKICggCooIoAIKggoAIoIKiioqIKIqgAAAgAigKAIKAioAoIAACKgKIAoCiCiCKIoKCAiooAqCCoBAVR
+        FOiCAoCCgCCgqCAogKCKKioCiAKCIKioCoAACioqAqAAKAiiAqKiCiCgKgKCICooAigioAqaooAIIqAG
+        gqiKIgqKgAAKAoAAAgKgoCKIICqCCoIKAgAKigAgoqKiAqKCCgIKKACAimKIqACoAqAAoiAoAgCgqKgg
+        oogogiiAoICiKAACKAAgCoqAAqiKCAIoICqIqKCKCAJQBRFFEVBFQBQiKCoIKIAogoCgIqKAgqAAoIqI
+        CoqiAICpAFBAVBVAQQBUBRFUQUQRQBAAIoKIKAIogAKIoICKAkABQFEUASKCBQFEAB//2Q==
+</value>
+  </data>
   <data name="S1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
   </data>
@@ -262,6 +364,23 @@
   </data>
   <data name="&gt;&gt;S1.ZOrder" xml:space="preserve">
     <value>6</value>
+  </data>
+  <data name="T3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBwoKCggICAgHBwgIBwoHBwcHBw8ICQcKFREWFhURHxMY
+        HSggGCYxJxMfITEhJSkrLi4uFx8zODMsNygtLiv/2wBDAQoKCg0NDQ8NDw8rGRUZLSs3KzcrLS0tKy0t
+        LS0rLSs3KysrKysrKystKysrKysrKysrKysrKysrKysrKysrKyv/wAARCADhAOEDASIAAhEBAxEB/8QA
+        FgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFxABAQEBAAAAAAAAAAAAAAAAAAERIf/EABcBAQEBAQAAAAAA
+        AAAAAAAAAAABBQT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDdIqM5xCiACgIogKgo
+        ICqAioIAAKAIoCAtBFAAQUFBBAAVAAUQFRUAFQBUAVABUABQUAEECKACAKigigAIqiKgCiKgIAKioCoq
+        KAoCCoAoAIoAIoAigioqCCooKAAIAqACiAoIgKiggCiiCACgiooAAIqKCKAAigIoAIAogAoAIqAKAACi
+        KCCAKKACKCCAKKIqCVUUEVAFQAFQBUVAFBRFRQEFBAEFQAVBQQVKCiACoqggIAqKKgAKIAKACKggYoAg
+        oKICggCooIoAIKggoAIoIKiioqIKIqgAAAgAigKAIKAioAoIAACKgKIAoCiCiCKIoKCAiooAqCCoBAVR
+        FOiCAoCCgCCgqCAogKCKKioCiAKCIKioCoAACioqAqAAKAiiAqKiCiCgKgKCICooAigioAqaooAIIqAG
+        gqiKIgqKgAAKAoAAAgKgoCKIICqCCoIKAgAKigAgoqKiAqKCCgIKKACAimKIqACoAqAAoiAoAgCgqKgg
+        oogogiiAoICiKAACKAAgCoqAAqiKCAIoICqIqKCKCAJQBRFFEVBFQBQiKCoIKIAogoCgIqKAgqAAoIqI
+        CoqiAICpAFBAVBVAQQBUBRFUQUQRQBAAIoKIKAIogAKIoICKAkABQFEUASKCBQFEAB//2Q==
+</value>
   </data>
   <data name="T3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -287,6 +406,23 @@
   <data name="&gt;&gt;T3.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="T2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBwoKCggICAgHBwgIBwoHBwcHBw8ICQcKFREWFhURHxMY
+        HSggGCYxJxMfITEhJSkrLi4uFx8zODMsNygtLiv/2wBDAQoKCg0NDQ8NDw8rGRUZLSs3KzcrLS0tKy0t
+        LS0rLSs3KysrKysrKystKysrKysrKysrKysrKysrKysrKysrKyv/wAARCADhAOEDASIAAhEBAxEB/8QA
+        FgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFxABAQEBAAAAAAAAAAAAAAAAAAERIf/EABcBAQEBAQAAAAAA
+        AAAAAAAAAAABBQT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDdIqM5xCiACgIogKgo
+        ICqAioIAAKAIoCAtBFAAQUFBBAAVAAUQFRUAFQBUAVABUABQUAEECKACAKigigAIqiKgCiKgIAKioCoq
+        KAoCCoAoAIoAIoAigioqCCooKAAIAqACiAoIgKiggCiiCACgiooAAIqKCKAAigIoAIAogAoAIqAKAACi
+        KCCAKKACKCCAKKIqCVUUEVAFQAFQBUVAFBRFRQEFBAEFQAVBQQVKCiACoqggIAqKKgAKIAKACKggYoAg
+        oKICggCooIoAIKggoAIoIKiioqIKIqgAAAgAigKAIKAioAoIAACKgKIAoCiCiCKIoKCAiooAqCCoBAVR
+        FOiCAoCCgCCgqCAogKCKKioCiAKCIKioCoAACioqAqAAKAiiAqKiCiCgKgKCICooAigioAqaooAIIqAG
+        gqiKIgqKgAAKAoAAAgKgoCKIICqCCoIKAgAKigAgoqKiAqKCCgIKKACAimKIqACoAqAAoiAoAgCgqKgg
+        oogogiiAoICiKAACKAAgCoqAAqiKCAIoICqIqKCKCAJQBRFFEVBFQBQiKCoIKIAogoCgIqKAgqAAoIqI
+        CoqiAICpAFBAVBVAQQBUBRFUQUQRQBAAIoKIKAIogAKIoICKAkABQFEUASKCBQFEAB//2Q==
+</value>
+  </data>
   <data name="T2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
   </data>
@@ -310,6 +446,23 @@
   </data>
   <data name="&gt;&gt;T2.ZOrder" xml:space="preserve">
     <value>2</value>
+  </data>
+  <data name="T1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBwoKCggICAgHBwgIBwoHBwcHBw8ICQcKFREWFhURHxMY
+        HSggGCYxJxMfITEhJSkrLi4uFx8zODMsNygtLiv/2wBDAQoKCg0NDQ8NDw8rGRUZLSs3KzcrLS0tKy0t
+        LS0rLSs3KysrKysrKystKysrKysrKysrKysrKysrKysrKysrKyv/wAARCADhAOEDASIAAhEBAxEB/8QA
+        FgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFxABAQEBAAAAAAAAAAAAAAAAAAERIf/EABcBAQEBAQAAAAAA
+        AAAAAAAAAAABBQT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDdIqM5xCiACgIogKgo
+        ICqAioIAAKAIoCAtBFAAQUFBBAAVAAUQFRUAFQBUAVABUABQUAEECKACAKigigAIqiKgCiKgIAKioCoq
+        KAoCCoAoAIoAIoAigioqCCooKAAIAqACiAoIgKiggCiiCACgiooAAIqKCKAAigIoAIAogAoAIqAKAACi
+        KCCAKKACKCCAKKIqCVUUEVAFQAFQBUVAFBRFRQEFBAEFQAVBQQVKCiACoqggIAqKKgAKIAKACKggYoAg
+        oKICggCooIoAIKggoAIoIKiioqIKIqgAAAgAigKAIKAioAoIAACKgKIAoCiCiCKIoKCAiooAqCCoBAVR
+        FOiCAoCCgCCgqCAogKCKKioCiAKCIKioCoAACioqAqAAKAiiAqKiCiCgKgKCICooAigioAqaooAIIqAG
+        gqiKIgqKgAAKAoAAAgKgoCKIICqCCoIKAgAKigAgoqKiAqKCCgIKKACAimKIqACoAqAAoiAoAgCgqKgg
+        oogogiiAoICiKAACKAAgCoqAAqiKCAIoICqIqKCKCAJQBRFFEVBFQBQiKCoIKIAogoCgIqKAgqAAoIqI
+        CoqiAICpAFBAVBVAQQBUBRFUQUQRQBAAIoKIKAIogAKIoICKAkABQFEUASKCBQFEAB//2Q==
+</value>
   </data>
   <data name="T1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI Historic, 26.25pt</value>
@@ -380,11 +533,14 @@
   <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
+  <data name="Exit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Mongolian Baiti, 12pt</value>
+  </data>
   <data name="Exit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 300</value>
+    <value>55, 276</value>
   </data>
   <data name="Exit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>185, 35</value>
   </data>
   <data name="Exit.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -420,8 +576,96 @@
   <data name="$this.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
     <value>GrowAndShrink</value>
   </data>
+  <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAoHCBUVEhgVFRUZGBIZGBgYGBgYGBIYGhoYGBoZGRgYGBgc
+        IS4lHB4rIRkYJjgmKy8xNTU1GiQ7QDs0Py40NTH/2wBDAQwMDBAPEB4SEh40JSQrNDQ0NDQ0NDQ0NDQ0
+        NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDT/wAARCADCAQMDASIAAhEBAxEB/8QA
+        GwAAAgMBAQEAAAAAAAAAAAAAAAMBAgQFBgf/xAA7EAABAwEFBQYEBQQCAwEAAAABAAIRIQMSMUFRBGFx
+        gZEFEyKhscEyUtHwBkJysuEUYoKSI9JDwvEV/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAIBAwQF/8QAIREB
+        AQEBAAMBAAIDAQAAAAAAAAERAhIhMQNBURMyYSL/2gAMAwEAAhEDEQA/APnqEIXd8oIQhAIQhAIQhAIQ
+        hAIQpQQpQoQCEIQClWs7NzvhBKH2ZaYcIKCqE2xsXPMNHE5BVtLMtMHFBRCEIBCEIkIQhFIQhCCUIQgF
+        ClCCEIQglQhCAQhCAQhCAQhCAQhCAQhCAQpQgljJTO7bSvFKQg3s2mBAoFD7YOIJrExzhYZQswb2W4bM
+        ZmSqWlo1xl1aQscolMDu7bGNUlEoWgQoUoBCEIIQpQghShCAQhQUAhCEAHA4FSsdm6CCtiyK65xCEIWp
+        CEIQCEIQCEIQCEIQSoQhBKFCEApUKUAoUqEApULVsGy94+7g0Vcd27egzIXpX7BZlt26BvA8Q3ziea8/
+        /TuvloEuBIgbs+CmdawpClzSDBoRQjeoVNCEKA4IzEoSnPVmvyWarxq6EIWsQhCEGNpqmG2J3JSZY2Rc
+        YHEnIAYknRS72QyytqweqeSEplkAcZV1rn1Jpl1F1bdk2O/iYaKTmTuVtr2QMggyDSsSDyWa56wXUXU6
+        6i6t1hN1F1OuouprdKurJtDjejABdC7AJNQA46YAmPJckrNdOJ/JrLYjGo+808PbEzRYkLVXmV0GQRIK
+        tdWTZ7YNmRMwtgtW3b00w3zomufXFl9IuIuqwe27emn3RTZvDsMd6azKpdRcTrqLqanSQxdXsoXL8iCS
+        BXd/9WSybBnRP7xTfZrp9+Fxn9stbaOLWTJq4mJgAUpQU804Wi88dM5WSL/PmXddxxs7UPtGkh+N2lIG
+        eswarJ3ZiYpqsFlaFpkcDvBxC6e0bcGtAaJvCdIB91XxvXF30zWjookK1paBxkCKCRjVDmwAdZ+iKkxV
+        ClACDVdRdUG3aMJKYwhwkLdc7KpcQm3UJqXIhbbCjLoFS6TvAHhH7jzGiLKyFI+InkNKq0xgd1Fjvet9
+        KqzHlpkUOunBVQtS6PZts6oJkYiclseQ4QcJlY9lsroricfYLQornb7KfY6KhZC0KHNTUkXVFxPhEJoT
+        dXG2izuvIyBpwxC78LF2lZNLb0gOGE5jRI6cdZcchShQqdkoCIotD7FrQBJvwCcIEiY1Jw0hDVWnwgcS
+        ef8AAHVMsD4m8R/KWhEX264ai6kdmGQ4ZAg9Z+i2wprj1MuE3UXU6EQmsJcboLjgMcPudy41uQXEtwNe
+        q6Ha3wtGUk8ae1eq5lm6CDEwQY1g4LY7/nz61CmZjp5z7qqkFas4NhShjoIIxFQhEhQhS1smBiaIxCfs
+        jodXCDKHMaKCup1O7d97lVrYQvuN19uoQsSExz8RGtEK8wZIk41ms1BOuu9UWrClpgyMVCAg6Owvc4Ga
+        gEQfX2Wu6qbC9hbDZEYg41z3rTdXO/XHr6VdRdTbqLqawq6i6m3VN1NCbq5nbFgaOGA8J3VofvcuxdXn
+        e0dqc5xE+EEgDWMzqkdPzl1iQhCt3WawmsGBidJ1T8ZJNfMyrvMMY0YQXHe4ucJPJoCXCRloDqRkceSh
+        WkRgZ1kR0j3VUS07LtVwEXZk1r5eq62z2oe2RzGhXAWzYNqDCb0wYwjKa+ayxPXOuvdRdTWwRIqCJB3F
+        F1S4sm17NfYW54g6FeeuGoNCMuBg/e5el25p7p0fKf58l5m6YnKQOZkj0K2O/wCXxVXs2guAJgEgE6An
+        FUQqdDyI/lSqNdqrIim90RBOYnlkpATbYieTRyDQPZUMJGahCFC0CE1uzPNYNeChZrNihM4qFtt7Jrn/
+        APECZk+GrREUmePlrTM2xeTdDXTpBlJdaWhMNi8GLjp0uuTrLs+0dg0gau8I86psZp/Y1nLnHIADqZ9l
+        17qpsmyBjLuJxJ1KfcXLrra5dXaXdRdTIUhqzUlBqm4m3VF1bprDt21Nsm3jUmjRqfovKEyvQ/iLZnFr
+        XASG3r0ZAxXhRcHZ2S4Dj5AlVz8en85PHVbtFVbVOz2TL7Q8eCa1ih36K8b5E2bHFt6DdBiawCaxP3ig
+        nDcuzse1zaXHBvduloaAIGnGd+qTa9llz3izIht2ATjebegHpjqs3+0779uWhXc0tLgRUeE4GCDMSM6e
+        qotaEIWzs/YXWrv7QfEfYb0twtx2uz2Humz8o88PKFoLE0MjDBBauOvNbtJcyRBwNCvJ7XY3HuaHSJyP
+        kd4Xsg1eU7ZsC21P90Eensq5vt1/K+7GBSrOIujG8JBwgjEHiqq3cJzSkrbsNi0ki0cWSAWyDBnOTSPX
+        Vay/AysSaUk4xvQtG2bGbK7LgWukhwnKKc5UDYrTJjq7qdU2Of8A1nWzYdiLzJowee4fVatl7IJq+g+U
+        Gp4kYcl1gwAAAQBQQo66/pHXX9E3Iy9EJobuQo1zRs2yNaxoaA3wgmMSSBWdU0Xv1bj4XDjkfJabkcPT
+        6qDZg/cEc8kPLfrPfGct/VQdcPNMAV7hG8b6HrgqCyH5TddocP8AX3HVSehcRcVmurBEO8j+k5+qvdRh
+        VxFxNuouoFXVJamhqLqBN1Z7Sxs2guc1jYqXXWz1iZW66ud25ZTZTkHAnDCCOdSDG5VPqufuPOWxbeNy
+        bkyJiQlKzHQZiVVd3YLr9iWoa20GYF7iACD08PVcloJMASdBVarWzAs23G2gtiDJgtEEwRXhG+Sp6+Nz
+        fTsdh2YNjeIEvc5xGWN32TbXsqxdiwD9Mt8hRZ/w3tANn3RIvMkwCD4SZ8iT1C7IauVtlcu7Z1XMb2NY
+        gzdni5xHSVtZZgCAAAMAKAck66qucBiY+9Fm6jbVIUXFYOJwaf8AIgD3Pkjx/KMMbx/6rDFbqRtuwttW
+        3XDgRiDuK0XyPiYRwII5mkKweKZThMieGvJD3LseVt/w7aA+EtcON09DTzVGfh+2ON0cXfQFexuIuq/K
+        un+bpwth7AYw3nm8chENHEfm+6LqW+ztcLrmhw3iemi0hqLim21F76t15PtPYnMbDSbuJaaia/DuxOmu
+        C9IzTdI3jguP+J3ENujNwfvEC76x1XVsLMhrADi0ETk4ASOBk+e5bfjp1d5lpsKLiYyu45jRWuqXEm6h
+        PuIQXnH7yS3ecKL/AN0qNR5IBQMDqwcaIc0EV49EsmVZj6Dh6oKvZkfE2J3jQjWOvFQwloH52xiB4hxH
+        5s8K7jimB1eA+qWTFRnTceO/ejdMvAtkGRhI1Vw1Ie1rpIlr5EkUMRScnc5V2vfIkBwg/DQ9CYOGvJGY
+        ZdRdVWW7TAnxTgaHoaps1A4+SHsshZO09k7xl0GDiNKLbauoOKU81PNJSPI2/Zlq0wWOdva1zh1AV2dm
+        2jhVpZGLn+ERJyNZrGC9ONokeCpk1waKfNnnQSoit5xvOilMD/aMs6+a6eddfO/ywbF2e2zaXTBgS8iH
+        QcmD8g8zuWwWIdWBAAcAYIJj8xzMZ5SNDLA3M45aD+d6TtO0Btm5xyDvvop+p8rXk9otyy2LxLXB7i1w
+        qCJNCJroa8l6/Z9pvMvBhuuaHAyzPiQvBm0dJM1Jk6E7wvX9htnZ2FwH5sR/c7AYDkq6np1/WTxlbnPc
+        7AANj4pnHQZ44zHFWZYgVqTWpMnjorhC5vP5f0Y7Ph9+qiaclUlBQMGPJUtLOB4QK4tPwnWd+9SH+kei
+        l7vU9EIWw4wJjFhNRwPXdvCawgiR97joUotk4wcnCJH8bkAwJNDhfaJ1gPb11zqEb9PDUXUtu1CJMRMX
+        wfB1xB3HqVIdIBdgTGUcx/JRmWfXlfxRaf8AICMWhoB4gk8QZC9DZOMMBqQWkHcWOjnj5HNea/FjD/Uz
+        HxNaOYp9F3dhfeaxxgEMa04HxDEkjSqvPUduv9I6L7EGDWRgRQqBZu+Yf6/zVOc6CBrKk5b/AKKHDaz9
+        1/cegHshKG0qVvjW7VGWgvOHDzCrbWrWxLgCTAkip0AzXD27bHMbLXFr5ERFQKQZWC17Qe66Xhri0y0u
+        EQaHFpboOiu8uvH5Xr29M60/fEapj7X9wHlK8+O1pxZnJLXEezvVabPbQ8FwkVqD6p4p646k2up39Sdw
+        9VDrfw7595XO7xHeKvGIx0HW4k+XVM/qCCa1F7yj+Vy+8Um1rKeMbjr2ls27WCAQYI1jI80q/dc6CRFR
+        B9jI8lz3W9I1DfIKDbY7/qPop8SOoQT+d1Kf+Pj8u9Hdtzr+oyKbsFzP6g65g5ZR9E/aLeHCND6x7LPF
+        rW+2oY+UHr9hDXin6ZOH3qub32PADpH0R3/7YW+LMdJ9sAT/AI+ePkuP25b+BrdQXO4CtdDN1v8AknOt
+        CSTjgTyC4/aDgb7hUucGcmAF0bpLOi2c46fnP/TmtbJAzJjqvY7DaAWLQMC0uHBzr3uvGr0my2ngb+lv
+        oFVi/wBvjtNtZI0r9+SnvKt0IJ8p9ly22u9SbfDcI8lPi8+OpZWkgaxPnCl74BO5c7ZreHVOUdSFq2x8
+        MO+B99FN59hzHz0B6yrB9SNPdYdjtZcf0jygKdn2gF5/uNOAB/hLyNQtPGRu+/VQy2lzNL3pn5rmv2mp
+        dz6Lmjt1t5vhddGdDnjd4LfFfPHXXx6l7WkkxUmZBI6kY81nuGQA6MSMRJpWGkDM5JbdpDgDMghhGniN
+        VV9v4xxLfMhTOU7Y5X4hJD2kmSWnMgUNZzzyIFEzsTai6zunFhI5O8QplWRyVfxC8S0n8riD+lzW3vve
+        ud2SS22uay08qz5Hqrnx3/2/N6t+0eFhzHsfotdvaw0HMNnyXlrbbXMtHMHiAdT5sqAhadp7XJDfDdyc
+        1xa0xT4ZMqbz8cfCtne7lK5n/wClY/Mej/ohUeHX9Vl2XtVl4FwLYNfzAjPf5FWtWtc8OaGlos2gllPF
+        JvExUHiuU5gUBpBkGD0PVbj1eM/j06LtmacCR0P8+atYMDMyScT/AAsTNscPiF4b6H/YY85Tm7Sx2d06
+        O9nCnMwtR1z1mfW3vEd4sziQJyyOIPA4FV71VjljX3iO8WS+jvUwxr7xHeLJfRfTDGvvFLrafvfPusd9
+        F9MMdHZ23pJMNAklZ2W8gmDdBiSKbpORWnbH91ZBo+J2P/sfZc9tu4suNabv5oBJcd+gw6KNOZs1vtnR
+        YOPzOA5T/BXGt3EgAEQC40IEl0Zcloc99wMcWhoMgFzGnPUzmUl1mDm3/Zn1R14l5JtLTLGvGBpJFTv3
+        LqbPaC6I0HmAY5THJcs2DsoP6XNd5NJT9nDmyHAjDEEeq2K79x0e8R3iyX0d4qxwxr7xadr2u9TfPVrY
+        87y5feI7xZhjpbNbQ4n+1/k0n1hJbbQQdFjFqjvFuGGbfb3bIxi43eWLvKB/kuCul2k6Ws4vP7R7LnKa
+        9X5TOXU7J2kiWzTEe49+q6YtyDezmfdec2d914OQNeGBW1+2uNGi7vxd1OHIBEd/nvWxu7WdeeTMNgwX
+        UBkjAYmgy3LFs+1izdeaLzrt0FwhooBIAMmgxkY4LOWkmSZJxzPMqQ2FmKkkmL2m0PdJLomSYhoM6gRP
+        NZnwDHVa2vuNv4uNGDeMXHcPM8CsDnEmSZJqScSTmUVy0XBvQm2eA4KVqdF1oAL3RIkAC84jWJAA3kjd
+        KzstZMJT3kkkmSak6lTY4ovxyNKqWBXBU70cy2Xmnwkg5wSOuqYNrP5mg7wLp8qeSMVDgjdl+mtt2H5m
+        8g4dRB8lYFpwc08y39wCy3ArWViC5oJMEgHgSmsvPLU1kmAWyaAX2Y6YpBtgX3WkRhJLQCRPiBOA0Wew
+        tAIdnDqRgbvhPX0S7JwaZiYyOG6U2qn5ya6Jc0YvHIOPtHmiz2xjXBwBcQZF6GicpAmeoWFjm0mRqfoM
+        1dpblrABqeaM/wAcjRtHaD3uvENBwo2abr0xySHue74nE8SSrBWMLMJk9SFd3vR3e9MDkALTSzZq9lfF
+        GuIk4NJEk7kKTaXHNONL3AhxAB5t80b7WttrIddEOAoSQBJGJBbBjSSfOFYbSw4tI4EHyIHqucE11uTi
+        BoBEADl6o28RuFow4Pj9TSP2yrBzfnb0f/1WAEE4V3TA6phsk2ovEai9vzjo/wD6qtpbNb85kSPCGgjU
+        Ek05LP3VFXbnS8nLwxuEAAcsOSbTnjnV9rtA5jSBEOcMZ+INIyHyu6LIrB9CMj66+vVVR1kyZAE+12gk
+        XW0YMAKTvdqfsLOhBsFq0Gs8BFd05caqzLUOdF0NEauMRUuMmtNIwWFSCjMhu0Wt504DADRowH3mSqMb
+        JhVTbC0a2ZbeOVYHOiN/j0ehKFohEZWdCEItqssAroQjnfoQhCMCs3EcR6oQgwIQhHYIQhBqsfhCuUIR
+        z6+gKEIRlSkbRjyQhG8/SUIQi0rVZfCEIWM6+LLPb48kIWp5+lIQhFhCEIBCEIBCEIBCEIP/2Q==
+</value>
+  </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>293, 354</value>
+    <value>293, 327</value>
   </data>
   <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
     <value>Mongolian Baiti, 8.25pt</value>
