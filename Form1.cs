@@ -107,8 +107,11 @@ namespace ocaso_tic_tac_toe
             this.Close();
         }
 
-   
-        
+        private void resetBttn(object sender, EventArgs e)
+        {
+            Application.Restart();
+            Environment.Exit(0);
+        }
     }
 }
         

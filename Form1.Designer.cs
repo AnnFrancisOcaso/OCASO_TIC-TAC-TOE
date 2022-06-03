@@ -44,6 +44,7 @@ namespace ocaso_tic_tac_toe
             this.aboutTheCreatorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.howToPlayToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.Exit = new System.Windows.Forms.Button();
+            this.Restart = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -145,11 +146,19 @@ namespace ocaso_tic_tac_toe
             this.Exit.UseVisualStyleBackColor = false;
             this.Exit.Click += new System.EventHandler(this.Exit_Click);
             // 
+            // Restart
+            // 
+            resources.ApplyResources(this.Restart, "Restart");
+            this.Restart.Name = "Restart";
+            this.Restart.UseVisualStyleBackColor = true;
+            this.Restart.Click += new System.EventHandler(this.resetBttn);
+            // 
             // TICTACTOE
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
+            this.Controls.Add(this.Restart);
             this.Controls.Add(this.Exit);
             this.Controls.Add(this.T3);
             this.Controls.Add(this.T2);
@@ -189,6 +198,7 @@ namespace ocaso_tic_tac_toe
         private System.Windows.Forms.ToolStripMenuItem aboutTheCreatorToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem howToPlayToolStripMenuItem;
         private System.Windows.Forms.Button Exit;
+        private System.Windows.Forms.Button Restart;
     }
 }
 
