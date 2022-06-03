@@ -85,11 +85,11 @@ namespace ocaso_tic_tac_toe
 
                 String winner = "";
                 if (turn)
-                    winner = "X";
-                else
-                    winner = "O";
+                    winner = "O!";
+                else 
+                    winner = "X!";
 
-                MessageBox.Show("We have a Winner!", "Congratulations!");
+                MessageBox.Show(winner + "  We have a Winner!", "Congratulations!");
             } // end if
 
             else
@@ -107,7 +107,8 @@ namespace ocaso_tic_tac_toe
             this.Close();
         }
 
-      
+   
+        
     }
 }
         

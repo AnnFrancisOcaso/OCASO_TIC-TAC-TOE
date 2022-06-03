@@ -189,7 +189,6 @@ namespace ocaso_tic_tac_toe
         private System.Windows.Forms.ToolStripMenuItem aboutTheCreatorToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem howToPlayToolStripMenuItem;
         private System.Windows.Forms.Button Exit;
- 
     }
 }
 
