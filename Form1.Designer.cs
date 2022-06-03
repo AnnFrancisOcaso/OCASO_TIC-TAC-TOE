@@ -148,9 +148,10 @@ namespace ocaso_tic_tac_toe
             // 
             // Restart
             // 
+            this.Restart.BackColor = System.Drawing.Color.CadetBlue;
             resources.ApplyResources(this.Restart, "Restart");
             this.Restart.Name = "Restart";
-            this.Restart.UseVisualStyleBackColor = true;
+            this.Restart.UseVisualStyleBackColor = false;
             this.Restart.Click += new System.EventHandler(this.resetBttn);
             // 
             // TICTACTOE
